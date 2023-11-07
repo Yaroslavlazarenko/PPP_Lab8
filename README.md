@@ -1,4 +1,6 @@
-# PPP_Lab7
+# PPP_Lab8
+
+![image](https://github.com/Yaroslavlazarenko/PPP_Lab8/assets/93127105/8f10ac78-af20-47cb-87c8-92876bd17e18)
 
 ![image](https://github.com/Yaroslavlazarenko/PPP_Lab7/assets/93127105/8180caf0-f8a4-4d4b-9387-d7b6c7a74eee)
 
